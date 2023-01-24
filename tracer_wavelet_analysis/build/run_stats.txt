@@ -1,0 +1,278 @@
+ 
+ ---> Constructing patch arrays and reading tracer data for dump #            1
+ 
+ 
+ mpi_rank =            0
+ Rank Coords =            0           0           0
+ origin zone =            1           1           1
+ nparticles =          205
+ nwavelet_indices =         4880
+ 
+ 
+ mpi_rank =            1
+ Rank Coords =            0           0           1
+ origin zone =            1           1          33
+ nparticles =          187
+ nwavelet_indices =         4760
+ 
+ 
+ mpi_rank =            2
+ Rank Coords =            0           0           2
+ origin zone =            1           1          65
+ nparticles =          192
+ nwavelet_indices =         4721
+ 
+ 
+ mpi_rank =            3
+ Rank Coords =            0           1           0
+ origin zone =            1          33           1
+ nparticles =          189
+ nwavelet_indices =         4978
+ 
+ 
+ mpi_rank =            4
+ Rank Coords =            0           1           1
+ origin zone =            1          33          33
+ nparticles =          194
+ nwavelet_indices =         4987
+ 
+ 
+ mpi_rank =            5
+ Rank Coords =            0           1           2
+ origin zone =            1          33          65
+ nparticles =          192
+ nwavelet_indices =         4712
+ 
+ 
+ mpi_rank =            6
+ Rank Coords =            0           2           0
+ origin zone =            1          65           1
+ nparticles =          188
+ nwavelet_indices =         4707
+ 
+ 
+ mpi_rank =            7
+ Rank Coords =            0           2           1
+ origin zone =            1          65          33
+ nparticles =          204
+ nwavelet_indices =         5145
+ 
+ 
+ mpi_rank =            8
+ Rank Coords =            0           2           2
+ origin zone =            1          65          65
+ nparticles =          200
+ nwavelet_indices =         5012
+ 
+ 
+ mpi_rank =            9
+ Rank Coords =            1           0           0
+ origin zone =           33           1           1
+ nparticles =          192
+ nwavelet_indices =         5047
+ 
+ 
+ mpi_rank =           10
+ Rank Coords =            1           0           1
+ origin zone =           33           1          33
+ nparticles =          183
+ nwavelet_indices =         4515
+ 
+ 
+ mpi_rank =           11
+ Rank Coords =            1           0           2
+ origin zone =           33           1          65
+ nparticles =          193
+ nwavelet_indices =         4850
+ 
+ 
+ mpi_rank =           12
+ Rank Coords =            1           1           0
+ origin zone =           33          33           1
+ nparticles =          201
+ nwavelet_indices =         4957
+ 
+ 
+ mpi_rank =           13
+ Rank Coords =            1           1           1
+ origin zone =           33          33          33
+ nparticles =          193
+ nwavelet_indices =         4920
+ 
+ 
+ mpi_rank =           14
+ Rank Coords =            1           1           2
+ origin zone =           33          33          65
+ nparticles =          193
+ nwavelet_indices =         5003
+ 
+ 
+ mpi_rank =           15
+ Rank Coords =            1           2           0
+ origin zone =           33          65           1
+ nparticles =          193
+ nwavelet_indices =         4847
+ 
+ 
+ mpi_rank =           16
+ Rank Coords =            1           2           1
+ origin zone =           33          65          33
+ nparticles =          187
+ nwavelet_indices =         4565
+ 
+ 
+ mpi_rank =           17
+ Rank Coords =            1           2           2
+ origin zone =           33          65          65
+ nparticles =          195
+ nwavelet_indices =         4889
+ 
+ 
+ mpi_rank =           18
+ Rank Coords =            2           0           0
+ origin zone =           65           1           1
+ nparticles =          184
+ nwavelet_indices =         4675
+ 
+ 
+ mpi_rank =           19
+ Rank Coords =            2           0           1
+ origin zone =           65           1          33
+ nparticles =          209
+ nwavelet_indices =         5073
+ 
+ 
+ mpi_rank =           20
+ Rank Coords =            2           0           2
+ origin zone =           65           1          65
+ nparticles =          185
+ nwavelet_indices =         4873
+ 
+ 
+ mpi_rank =           21
+ Rank Coords =            2           1           0
+ origin zone =           65          33           1
+ nparticles =          187
+ nwavelet_indices =         4806
+ 
+ 
+ mpi_rank =           22
+ Rank Coords =            2           1           1
+ origin zone =           65          33          33
+ nparticles =          188
+ nwavelet_indices =         4823
+ 
+ 
+ mpi_rank =           23
+ Rank Coords =            2           1           2
+ origin zone =           65          33          65
+ nparticles =          192
+ nwavelet_indices =         4994
+ 
+ 
+ mpi_rank =           24
+ Rank Coords =            2           2           0
+ origin zone =           65          65           1
+ nparticles =          193
+ nwavelet_indices =         4592
+ 
+ 
+ mpi_rank =           25
+ Rank Coords =            2           2           1
+ origin zone =           65          65          33
+ nparticles =          180
+ nwavelet_indices =         4707
+ 
+ 
+ mpi_rank =           26
+ Rank Coords =            2           2           2
+ origin zone =           65          65          65
+ nparticles =          185
+ nwavelet_indices =         4774
+ 
+ #############################
+ Nparticles_total =         5184
+ #############################
+ 
+Reading tracer data for rank=  0, coords =  0 0 0, origin_zone =   1  1  1
+ PARTICLE#            1
+ Particle id, init_rank =          164          18
+ Particle position (flat, i,j,k) =         1726          25          16
+           1
+ Div(V) =  -6.9666761E-03
+ PARTICLE#            2
+ Particle id, init_rank =          171          18
+ Particle position (flat, i,j,k) =         1975           2          24
+           1
+ Div(V) =  -4.4726720E-03
+ PARTICLE#            3
+ Particle id, init_rank =           10           2
+ Particle position (flat, i,j,k) =         9525           4           8
+           8
+ Div(V) =  -6.9690952E-03
+ PARTICLE#            4
+ Particle id, init_rank =            1           0
+ Particle position (flat, i,j,k) =         9528           7           8
+           8
+ Div(V) =  -8.4679332E-03
+ PARTICLE#            5
+ Particle id, init_rank =            5           0
+ Particle position (flat, i,j,k) =         9530           9           8
+           8
+ Div(V) =  -9.0134926E-03
+ PARTICLE#            6
+ Particle id, init_rank =            6           0
+ Particle position (flat, i,j,k) =         9533          12           8
+           8
+ Div(V) =  -1.0109593E-02
+ PARTICLE#            7
+ Particle id, init_rank =            3           0
+ Particle position (flat, i,j,k) =         9537          16           8
+           8
+ Div(V) =  -1.0958283E-02
+ PARTICLE#            8
+ Particle id, init_rank =            8           0
+ Particle position (flat, i,j,k) =         9538          17           8
+           8
+ Div(V) =  -1.0353538E-02
+ PARTICLE#            9
+ Particle id, init_rank =           12           0
+ Particle position (flat, i,j,k) =         9547          26           8
+           8
+ Div(V) =  -9.9982880E-03
+ PARTICLE#           10
+ Particle id, init_rank =           12           2
+ Particle position (flat, i,j,k) =         9562           7           9
+           8
+ Div(V) =  -7.8605376E-03
+ PARTICLE#           11
+ Particle id, init_rank =            4           0
+ Particle position (flat, i,j,k) =         9569          14           9
+           8
+ Div(V) =  -1.1444113E-02
+ PARTICLE#           12
+ Particle id, init_rank =           20           2
+ Particle position (flat, i,j,k) =         9795           2          16
+           8
+ Div(V) =  -6.6458690E-03
+ PARTICLE#           13
+ Particle id, init_rank =           18           0
+ Particle position (flat, i,j,k) =         9797           4          16
+           8
+ Div(V) =  -6.8725077E-03
+ PARTICLE#           14
+ Particle id, init_rank =           19           0
+ Particle position (flat, i,j,k) =         9800           7          16
+           8
+ Div(V) =  -7.0142029E-03
+ PARTICLE#           15
+ Particle id, init_rank =           14           0
+ Particle position (flat, i,j,k) =         9802           9          16
+           8
+ Div(V) =  -7.6970216E-03
+ PARTICLE#           16
+ Particle id, init_rank =           13           0
+ Particle position (flat, i,j,k) =         9803          10          16
+           8
+ Div(V) =  -8.0943080E-03
+ ERROR! Found duplicate particle, init_rank, id =            0          13

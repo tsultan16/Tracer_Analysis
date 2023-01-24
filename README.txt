@@ -1,0 +1,1 @@
+# Some wavelet analysis tools for tracer particles embedded in 3D MHD fluid flows. Designed to work with binary dumps from WOMBAT MHD

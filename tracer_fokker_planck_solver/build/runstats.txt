@@ -1,0 +1,1845 @@
+ 
+ Fokker-Planck Solver Parameters:
+     nbins     =            80
+     pmin      =    0.100000000000000     
+     pmax      =    1.000000000000000E+015
+     dp        =     1.58489319246111     
+     d logp    =    0.460517018598809     
+ 
+ 
+ Fokker-Planck solver initilized..
+ 
+ 
+ Initialization for adiabatic expansion test completed..
+ 
+ File write completed.
+ ###############################
+ Solving for time dump #          17
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          16
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640636702E-005
+ 
+ 
+ Mean momentum CC   =    394.473345970674     
+ 
+ 
+ N_tot CC   =   4.522532076008988E-002
+ 
+ 
+ Mean momentum CC   =    302665.248002779     
+ 
+ 
+ t, dt =           17   1.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          18
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          17
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.459886626536408     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.299409448031979     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640635609E-005
+ 
+ 
+ Mean momentum CC   =    168.364125502704     
+ 
+ 
+ N_tot CC   =   4.522532076008081E-002
+ 
+ 
+ Mean momentum CC   =    152457.422107578     
+ 
+ 
+ t, dt =           18   2.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          19
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          18
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.316832002275425     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.480030250929815     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640635590E-005
+ 
+ 
+ Mean momentum CC   =    1248.89445339283     
+ 
+ 
+ N_tot CC   =   4.522532076008680E-002
+ 
+ 
+ Mean momentum CC   =    1862991.83883630     
+ 
+ 
+ t, dt =           19   3.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          20
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          19
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.297088152146463     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640635298E-005
+ 
+ 
+ Mean momentum CC   =    466.486207556331     
+ 
+ 
+ N_tot CC   =   4.522532076008645E-002
+ 
+ 
+ Mean momentum CC   =    644484.525588829     
+ 
+ 
+ t, dt =           20   4.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          21
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          20
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   8.128475960369710E-002
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640634412E-005
+ 
+ 
+ Mean momentum CC   =    7056883.47333768     
+ 
+ 
+ N_tot CC   =   4.522532076007755E-002
+ 
+ 
+ Mean momentum CC   =    10839309761.6037     
+ 
+ 
+ t, dt =           21   5.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          22
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          21
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633891E-005
+ 
+ 
+ Mean momentum CC   =    6764034.52520655     
+ 
+ 
+ N_tot CC   =   4.522532076007056E-002
+ 
+ 
+ Mean momentum CC   =    10389495896.4582     
+ 
+ 
+ t, dt =           22   6.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          23
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          22
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.438736135415776     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633190E-005
+ 
+ 
+ Mean momentum CC   =    13248843.2453909     
+ 
+ 
+ N_tot CC   =   4.522532076006497E-002
+ 
+ 
+ Mean momentum CC   =    20350193134.3355     
+ 
+ 
+ t, dt =           23   7.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          24
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          23
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.264370461937825     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.274460722243109     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633040E-005
+ 
+ 
+ Mean momentum CC   =    4019181.94713360     
+ 
+ 
+ N_tot CC   =   4.522532076005623E-002
+ 
+ 
+ Mean momentum CC   =    6173453536.80064     
+ 
+ 
+ t, dt =           24   8.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          25
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          24
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.524239114702554     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.491048133434278     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633545E-005
+ 
+ 
+ Mean momentum CC   =    2202333.78277833     
+ 
+ 
+ N_tot CC   =   4.522532076006128E-002
+ 
+ 
+ Mean momentum CC   =    3382779188.74599     
+ 
+ 
+ t, dt =           25   9.00000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          26
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          25
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633539E-005
+ 
+ 
+ Mean momentum CC   =    2132816.18441989     
+ 
+ 
+ N_tot CC   =   4.522532076005836E-002
+ 
+ 
+ Mean momentum CC   =    3276001401.01993     
+ 
+ 
+ t, dt =           26   10.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          27
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          26
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.414324622434457     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640634543E-005
+ 
+ 
+ Mean momentum CC   =    996302.842087630     
+ 
+ 
+ N_tot CC   =   4.522532076006636E-002
+ 
+ 
+ Mean momentum CC   =    1530313122.10804     
+ 
+ 
+ t, dt =           27   11.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          28
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          27
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.484545310944870     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640634861E-005
+ 
+ 
+ Mean momentum CC   =    838854.525389181     
+ 
+ 
+ N_tot CC   =   4.522532076007053E-002
+ 
+ 
+ Mean momentum CC   =    1288476077.80799     
+ 
+ 
+ t, dt =           28   12.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          29
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          28
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.199382342995804     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640634581E-005
+ 
+ 
+ Mean momentum CC   =    1745609.25694217     
+ 
+ 
+ N_tot CC   =   4.522532076006726E-002
+ 
+ 
+ Mean momentum CC   =    2681047167.39738     
+ 
+ 
+ t, dt =           29   13.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          30
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          29
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.756336882725789     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.364690459308572     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640635773E-005
+ 
+ 
+ Mean momentum CC   =    1150432.42522705     
+ 
+ 
+ N_tot CC   =   4.522532076007681E-002
+ 
+ 
+ Mean momentum CC   =    1766975993.23494     
+ 
+ 
+ t, dt =           30   14.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          31
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          30
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.239564250846525     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640635173E-005
+ 
+ 
+ Mean momentum CC   =    308525.675188960     
+ 
+ 
+ N_tot CC   =   4.522532076007199E-002
+ 
+ 
+ Mean momentum CC   =    473762136.814349     
+ 
+ 
+ t, dt =           31   15.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          32
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          31
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.360453523199298     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.817986174552307     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640634745E-005
+ 
+ 
+ Mean momentum CC   =    128648.074635063     
+ 
+ 
+ N_tot CC   =   4.522532076007359E-002
+ 
+ 
+ Mean momentum CC   =    197512598.679616     
+ 
+ 
+ t, dt =           32   16.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          33
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          32
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633797E-005
+ 
+ 
+ Mean momentum CC   =    131492.278511322     
+ 
+ 
+ N_tot CC   =   4.522532076006459E-002
+ 
+ 
+ Mean momentum CC   =    201903940.426852     
+ 
+ 
+ t, dt =           33   17.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          34
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          33
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.354443952056015     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633176E-005
+ 
+ 
+ Mean momentum CC   =    103063.777082621     
+ 
+ 
+ N_tot CC   =   4.522532076006154E-002
+ 
+ 
+ Mean momentum CC   =    158277605.649274     
+ 
+ 
+ t, dt =           34   18.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          35
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          34
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.193237598122939     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633235E-005
+ 
+ 
+ Mean momentum CC   =    5230494.71464104     
+ 
+ 
+ N_tot CC   =   4.522532076006989E-002
+ 
+ 
+ Mean momentum CC   =    8033996233.59515     
+ 
+ 
+ t, dt =           35   19.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          36
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          35
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.191452576973056     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.232654241244555     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633669E-005
+ 
+ 
+ Mean momentum CC   =    1008371.73205130     
+ 
+ 
+ N_tot CC   =   4.522532076007212E-002
+ 
+ 
+ Mean momentum CC   =    1547555806.51212     
+ 
+ 
+ t, dt =           36   20.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          37
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          36
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.100613971006854     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   7.929756349395210E-002
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640633047E-005
+ 
+ 
+ Mean momentum CC   =    12381185.0089698     
+ 
+ 
+ N_tot CC   =   4.522532076006926E-002
+ 
+ 
+ Mean momentum CC   =    67456597.8953829     
+ 
+ 
+ t, dt =           37   21.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          38
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          37
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.419005835353897     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640632872E-005
+ 
+ 
+ Mean momentum CC   =    53030664.8450880     
+ 
+ 
+ N_tot CC   =   4.522532076006499E-002
+ 
+ 
+ Mean momentum CC   =    50339032.8111276     
+ 
+ 
+ t, dt =           38   22.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          39
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          38
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.281613464185401     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.270157153853546     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640632706E-005
+ 
+ 
+ Mean momentum CC   =    16504183.9299482     
+ 
+ 
+ N_tot CC   =   4.522532076005741E-002
+ 
+ 
+ Mean momentum CC   =    16427762.8097712     
+ 
+ 
+ t, dt =           39   23.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          40
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          39
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.297004311844482     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640632179E-005
+ 
+ 
+ Mean momentum CC   =    19166912.6449970     
+ 
+ 
+ N_tot CC   =   4.522532076005586E-002
+ 
+ 
+ Mean momentum CC   =    5681327.82787316     
+ 
+ 
+ t, dt =           40   24.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          41
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          40
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.830005307374559     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.820928814085235     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640632134E-005
+ 
+ 
+ Mean momentum CC   =    13060645.8677028     
+ 
+ 
+ N_tot CC   =   4.522532076005864E-002
+ 
+ 
+ Mean momentum CC   =    14766092.4325657     
+ 
+ 
+ t, dt =           41   25.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          42
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          41
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.533487864857501     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.358978104322169     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640632140E-005
+ 
+ 
+ Mean momentum CC   =    5426801.81263871     
+ 
+ 
+ N_tot CC   =   4.522532076006194E-002
+ 
+ 
+ Mean momentum CC   =    8175994.42896217     
+ 
+ 
+ t, dt =           42   26.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          43
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          42
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.272751392574347     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631381E-005
+ 
+ 
+ Mean momentum CC   =    6308889.89946875     
+ 
+ 
+ N_tot CC   =   4.522532076005702E-002
+ 
+ 
+ Mean momentum CC   =    2572855.63152898     
+ 
+ 
+ t, dt =           43   27.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          44
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          43
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.309704980990779     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630447E-005
+ 
+ 
+ Mean momentum CC   =    53849148.7111379     
+ 
+ 
+ N_tot CC   =   4.522532076005244E-002
+ 
+ 
+ Mean momentum CC   =    3185798.06383567     
+ 
+ 
+ t, dt =           44   28.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          45
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          44
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630657E-005
+ 
+ 
+ Mean momentum CC   =    86240022.0750595     
+ 
+ 
+ N_tot CC   =   4.522532076005283E-002
+ 
+ 
+ Mean momentum CC   =    2359446.08735257     
+ 
+ 
+ t, dt =           45   29.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          46
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          45
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.383202324507000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630701E-005
+ 
+ 
+ Mean momentum CC   =    71247312.9422858     
+ 
+ 
+ N_tot CC   =   4.522532076004530E-002
+ 
+ 
+ Mean momentum CC   =    1036095.86631774     
+ 
+ 
+ t, dt =           46   30.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          47
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          46
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =    1.00000000000000     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.759888799282754     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630809E-005
+ 
+ 
+ Mean momentum CC   =    143674279.903261     
+ 
+ 
+ N_tot CC   =   4.522532076005137E-002
+ 
+ 
+ Mean momentum CC   =    1519634.25465448     
+ 
+ 
+ t, dt =           47   31.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          48
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          47
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.161546975307983     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.569157688676211     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631171E-005
+ 
+ 
+ Mean momentum CC   =    320224895.160978     
+ 
+ 
+ N_tot CC   =   4.522532076005057E-002
+ 
+ 
+ Mean momentum CC   =    179422222.345842     
+ 
+ 
+ t, dt =           48   32.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          49
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          48
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.914541485754007     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.203353068776515     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631285E-005
+ 
+ 
+ Mean momentum CC   =    1892489582.39231     
+ 
+ 
+ N_tot CC   =   4.522532076004820E-002
+ 
+ 
+ Mean momentum CC   =    388017138.615791     
+ 
+ 
+ t, dt =           49   33.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          50
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          49
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.484743139428558     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.185673107274978     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631786E-005
+ 
+ 
+ Mean momentum CC   =    347277472.250393     
+ 
+ 
+ N_tot CC   =   4.522532076005594E-002
+ 
+ 
+ Mean momentum CC   =    1525143682.83763     
+ 
+ 
+ t, dt =           50   34.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          51
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          50
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.355207950119343     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.755287121859344     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631427E-005
+ 
+ 
+ Mean momentum CC   =    827352467.657783     
+ 
+ 
+ N_tot CC   =   4.522532076005759E-002
+ 
+ 
+ Mean momentum CC   =    8220949177.24710     
+ 
+ 
+ t, dt =           51   35.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          52
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          51
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.516015666842241     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.914237220897039     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631228E-005
+ 
+ 
+ Mean momentum CC   =    1397473379.84229     
+ 
+ 
+ N_tot CC   =   4.522532076005135E-002
+ 
+ 
+ Mean momentum CC   =    23295564076.8128     
+ 
+ 
+ t, dt =           52   36.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          53
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          52
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.346053874664422     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.618756371150203     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631369E-005
+ 
+ 
+ Mean momentum CC   =    836446991.685800     
+ 
+ 
+ N_tot CC   =   4.522532076005989E-002
+ 
+ 
+ Mean momentum CC   =    9364792163.64301     
+ 
+ 
+ t, dt =           53   37.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          54
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          53
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.640111933635856     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631486E-005
+ 
+ 
+ Mean momentum CC   =    652610408.761974     
+ 
+ 
+ N_tot CC   =   4.522532076006414E-002
+ 
+ 
+ Mean momentum CC   =    5721901898.03201     
+ 
+ 
+ t, dt =           54   38.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          55
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          54
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.812338909414314     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630247E-005
+ 
+ 
+ Mean momentum CC   =    571789374.245413     
+ 
+ 
+ N_tot CC   =   4.522532076005438E-002
+ 
+ 
+ Mean momentum CC   =    3881078723.01491     
+ 
+ 
+ t, dt =           55   39.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          56
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          55
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   7.750628357807825E-002
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.815473509044703     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630659E-005
+ 
+ 
+ Mean momentum CC   =    1212634271.62187     
+ 
+ 
+ N_tot CC   =   4.522532076006403E-002
+ 
+ 
+ Mean momentum CC   =    1268636761987.54     
+ 
+ 
+ t, dt =           56   40.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          57
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          56
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.708724839472673     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.595545742946972     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631098E-005
+ 
+ 
+ Mean momentum CC   =    757024505.063576     
+ 
+ 
+ N_tot CC   =   4.522532076006099E-002
+ 
+ 
+ Mean momentum CC   =    813011063087.815     
+ 
+ 
+ t, dt =           57   41.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          58
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          57
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.244286797929238     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.438664553940953     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630397E-005
+ 
+ 
+ Mean momentum CC   =    1079945158.77814     
+ 
+ 
+ N_tot CC   =   4.522532076005756E-002
+ 
+ 
+ Mean momentum CC   =    223601761320.419     
+ 
+ 
+ t, dt =           58   42.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          59
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          58
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.779037184287448     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630201E-005
+ 
+ 
+ Mean momentum CC   =    1022283341.89987     
+ 
+ 
+ N_tot CC   =   4.522532076006353E-002
+ 
+ 
+ Mean momentum CC   =    149169094738.264     
+ 
+ 
+ t, dt =           59   43.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          60
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          59
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.511476161499636     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.161882153393773     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640630981E-005
+ 
+ 
+ Mean momentum CC   =    6139417539.41496     
+ 
+ 
+ N_tot CC   =   4.522532076006878E-002
+ 
+ 
+ Mean momentum CC   =    532530560980.260     
+ 
+ 
+ t, dt =           60   44.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          61
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          60
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.999546733406320     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.594832733264888     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631455E-005
+ 
+ 
+ Mean momentum CC   =    8422130295.85022     
+ 
+ 
+ N_tot CC   =   4.522532076007219E-002
+ 
+ 
+ Mean momentum CC   =    848973125974.929     
+ 
+ 
+ t, dt =           61   45.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          62
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          61
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.354719290842873     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640632456E-005
+ 
+ 
+ Mean momentum CC   =    8114723762.84324     
+ 
+ 
+ N_tot CC   =   4.522532076008107E-002
+ 
+ 
+ Mean momentum CC   =    2175011732428.41     
+ 
+ 
+ t, dt =           62   46.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          63
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          62
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.235874482030412     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =   0.209396819116427     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640631886E-005
+ 
+ 
+ Mean momentum CC   =    14887360845.8085     
+ 
+ 
+ N_tot CC   =   4.522532076007674E-002
+ 
+ 
+ Mean momentum CC   =    571282329404.385     
+ 
+ 
+ t, dt =           63   47.0000000000000        1.00000000000000     
+ 
+ ###############################
+ Solving for time dump #          64
+ ###############################
+ #################################################
+ READING REORGANIZED FILES FOR TIME DUMP #          63
+ #################################################
+ 
+ File #            1
+ Nparticles =          768
+ 
+ Done reading from file #            1
+ 
+ File #            2
+ Nparticles =          768
+ 
+ Done reading from file #            2
+ Evolving distribution function for particles in file #     1
+ Required time-step size =   0.145481156942512     
+ Evolving distribution function for particles in file #     2
+ Required time-step size =    1.00000000000000     
+ Saving to file...
+ File write completed.
+ File write completed.
+ 
+ N_tot CC   =   5.888713640632345E-005
+ 
+ 
+ Mean momentum CC   =    15489588558.2916     
+ 
+ 
+ N_tot CC   =   4.522532076008409E-002
+ 
+ 
+ Mean momentum CC   =    65409772950.3800     
+ 
+ 
+ t, dt =           64   48.0000000000000        1.00000000000000     
+ 
+ 
+ Fokker-Planck solver destroyed..
+ 
+ 
+ Test completed!
+ 
